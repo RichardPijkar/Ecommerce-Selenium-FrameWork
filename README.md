@@ -1,2 +1,2 @@
 # Ecommerce-Selenium-FrameWork
-this is demo of automation with selenium and testng framework
+this is automation Testing with selenium and TestNG framework with dummy e-commerce website using Page object model
